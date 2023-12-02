@@ -87,3 +87,4 @@ This section focuses on creating a user-friendly Streamlit app interface for the
 2. Open the app in a web browser.
 3. Input queries and explore the multi-modal retrieval capabilities.
 
+Codelab Document: https://codelabs-preview.appspot.com/?file_id=1mV2LItx7RyLIjZJU_M3X0r2rfCNGqYndMvRGMJa8K4c#0
