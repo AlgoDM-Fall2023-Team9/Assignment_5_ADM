@@ -69,7 +69,6 @@ jupyter_core
 keras==2.14.0
 kiwisolver==1.4.5
 libclang==16.0.6
-llama-index==0.9.10
 loguru==0.7.2
 Markdown==3.5.1
 markdown-it-py==3.0.0
